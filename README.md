@@ -1,2 +1,2 @@
 # SENAI-SistemaPecas
-A study repository for SENAI course
+Exercício do "Encontro Remoto 1" da UC8
